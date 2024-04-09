@@ -10,7 +10,7 @@
       "AuthTokenSecret": "DEVOPSBOOSTER"
     },
     {
-      "repo": "https://github.com/Microsoft/BCTech/samples/HelloWorldV2"
+      "repo": "https://github.com/BusinessCentralApps/publicdependency"
     }
   ],
   "generateDependencyArtifact": true
