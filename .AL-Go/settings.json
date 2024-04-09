@@ -8,6 +8,9 @@
       "repo": "https://github.com/BCE-Consultancy/ALGo4Githhub",
       "release_status": "latestBuild",
       "AuthTokenSecret": "DEVOPSBOOSTER"
+    },
+    {
+      "repo": "https://github.com/Microsoft/BCTech/tree/master/samples/HelloWorldV2"
     }
   ],
   "generateDependencyArtifact": true
