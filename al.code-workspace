@@ -1,18 +1,25 @@
 {
   "folders": [
     {
+      "name": "app",
       "path": "app"
     },
     {
+      "name": "App.Test",
       "path": "App.Test"
     },
     {
+      "name": "Dependencies",
+      "path": "Dependencies"
+    },
+    {
+      "name": ".AL-Go",
       "path": ".AL-Go"
     },
     {
+      "name": "ALProject2",
       "path": "ALProject2"
     }
-
   ],
   "settings": {},
   "launch": {
