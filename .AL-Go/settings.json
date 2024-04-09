@@ -3,5 +3,16 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "Dependencies//*.zip"
+  "Dependencies//*.zip",
+  "appDependencyProbingPaths": [
+    {
+      "repo": "https://github.com/BCE-Consultancy/ALGo4Githhub",
+      "release_status": "latestBuild",
+      "AuthTokenSecret": "DEVOPSBOOSTER"
+    },
+    {
+      "repo": "https://github.com/BusinessCentralApps/publicdependency"
+    }
+  ],
+  "generateDependencyArtifact": true
 }
