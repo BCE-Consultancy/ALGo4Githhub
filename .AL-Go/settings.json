@@ -3,6 +3,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
+  "Dependencies//*.zip",
   "appDependencyProbingPaths": [
     {
       "repo": "https://github.com/BCE-Consultancy/ALGo4Githhub",
