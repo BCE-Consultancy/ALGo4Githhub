@@ -8,7 +8,11 @@
     },
     {
       "path": ".AL-Go"
+    },
+    {
+      "path": "ALProject2"
     }
+
   ],
   "settings": {},
   "launch": {

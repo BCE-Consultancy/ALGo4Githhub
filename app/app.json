@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+        "id": "c062322e-f517-4b4c-8fca-2d7a1c4b3682",
+        "name": "BCE Project App",
+        "publisher": "BCE",
+        "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "23.5.0.0",
