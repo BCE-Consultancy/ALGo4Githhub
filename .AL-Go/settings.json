@@ -16,5 +16,6 @@
   "generateDependencyArtifact": true,
   "installApps": [
     "Dependencies//*.zip"
-  ]
+  ],
+  "repoVersion": "1.1"
 }

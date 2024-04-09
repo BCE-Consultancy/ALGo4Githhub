@@ -2,7 +2,7 @@
   "id": "47532d8b-dd46-4f14-93dc-b4907e3573f1",
   "name": "app",
   "publisher": "BCEConsultancy",
-  "version": "1.0.0.0",
+  "version": "1.1.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -12,10 +12,10 @@
   "logo": "",
   "dependencies": [
     {
-        "id": "c062322e-f517-4b4c-8fca-2d7a1c4b3682",
-        "name": "BCE Project App",
-        "publisher": "BCE",
-        "version": "1.0.0.0"
+      "id": "c062322e-f517-4b4c-8fca-2d7a1c4b3682",
+      "name": "BCE Project App",
+      "publisher": "BCE",
+      "version": "1.1.0.0"
     },
     {
       "id": "0d261311-11f1-494c-b71e-f0126a8cd0fa",
